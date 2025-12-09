@@ -26,3 +26,36 @@
 | **[NixOS Config](https://github.com/ShaoG-R/nixos-config)** | **模块化 NixOS 服务器配置**<br>机制与策略分离的现代化服务器配置库。 | • **内核调优**: CachyOS Kernel + BBRv3<br>• **网络优化**: SmartDNS 并行查询<br>• **一键部署**: 支持 一键 DD 与 nixos-anywhere |
 
 > Note: 这些项目均在活跃维护中，欢迎提交 Issue 或 PR。
+
+---
+
+### 🛠️ 技术栈
+
+- **主力语言**:
+  ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+- **掌握的语言与技术**:
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub 统计
+
+<p align="center">
+  <a href="https://github.com/ShaoG-R/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-zeta-lovat-89.vercel.app/api?username=ShaoG-R&show_icons=true&theme=radical" />
+  </a>
+  <a href="https://github.com/ShaoG-R/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-zeta-lovat-89.vercel.app/api/top-langs/?username=ShaoG-R&layout=compact&theme=radical" />
+  </a>
+</p>
+
+---
+
+### 📫 如何联系我
+
+- 📧 **邮箱**: [shaog.rs@gmail.com](mailto:shaog.rs@gmail.com)
