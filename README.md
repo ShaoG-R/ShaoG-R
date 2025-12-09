@@ -43,11 +43,11 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShaoG-R&show_icons=true&theme=radical" />
+  <a href="https://github.com/ShaoG-R/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-zeta-lovat-89.vercel.app/api?username=ShaoG-R&show_icons=true&theme=radical" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaoG-R&layout=compact&theme=radical" />
+  <a href="https://github.com/ShaoG-R/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-zeta-lovat-89.vercel.app/api/top-langs/?username=ShaoG-R&layout=compact&theme=radical" />
   </a>
 </p>
 
