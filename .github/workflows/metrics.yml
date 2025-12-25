@@ -38,3 +38,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_analysis_timeout_repositories: 15
+          commits_authoring: ShaoG-R, admin@gloryouth.com, 韶光, gloryouth@outlook.com, shaog.rs@gmail.com
