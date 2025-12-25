@@ -29,7 +29,7 @@ jobs:
           
           # 【核心配置 2】: 启用行数统计插件
           plugin_lines: yes
-          plugin_lines_history_limit: 1
+          plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 2
           plugin_lines_sections: base
 
