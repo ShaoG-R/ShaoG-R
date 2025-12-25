@@ -52,6 +52,8 @@
   <a href="https://github.com/ShaoG-R/github-readme-stats">
     <img align="center" src="https://github-readme-stats-zeta-lovat-89.vercel.app/api/top-langs/?username=ShaoG-R&layout=compact&theme=radical" />
   </a>
+  <br>
+  <img align="center" src="./github-metrics.svg" alt="Metrics" />
 </p>
 
 ---

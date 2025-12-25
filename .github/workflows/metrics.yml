@@ -1,0 +1,34 @@
+name: Metrics
+on:
+  # 每天运行一次
+  schedule: [{cron: "0 0 * * *"}]
+  # 允许手动触发
+  workflow_dispatch:
+  # 当主分支有 push 时触发 (可选)
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 你的 GitHub Token (在 Secrets 中设置)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # 基础选项
+          user: ShaoG-R
+          template: classic
+          base: header, repositories
+          config_timezone: Asia/Shanghai
+
+          # 【核心配置 1】: 过滤掉 Fork 仓库
+          repositories_forks: no
+          
+          # 【核心配置 2】: 启用行数统计插件
+          plugin_lines: yes
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+          plugin_lines_sections: base
