@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # 基础选项
-          user: ShaoG-R
+          user: shaogme
           template: classic
           base: header, repositories
           config_timezone: Asia/Shanghai
@@ -41,4 +41,4 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_analysis_timeout: 60
           plugin_languages_analysis_timeout_repositories: 15
-          commits_authoring: ShaoG-R, admin@gloryouth.com, 韶光, admin@shaog.uk, shaog.rs@gmail.com
+          commits_authoring: shaogme, ShaoG-R, admin@gloryouth.com, 韶光, admin@shaog.uk, shaog.rs@gmail.com
