@@ -59,4 +59,4 @@
 
 ### 📫 如何联系我
 
-- 📧 **邮箱**: [shaog.rs@gmail.com](mailto:shaog.rs@gmail.com)
+- 📧 **邮箱**: [hi@shaog.me](mailto:hi@shaog.me)
