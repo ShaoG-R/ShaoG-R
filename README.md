@@ -23,7 +23,7 @@
 
 | 项目 | 简介 | 亮点 |
 |------|------|------|
-| **[NixOS Config](https://github.com/shaogme/nixos-config)** | **模块化 NixOS 服务器配置**<br>机制与策略分离的现代化服务器配置库。 | • **内核调优**: CachyOS Kernel + BBRv3<br>• **网络优化**: SmartDNS 并行查询<br>• **一键部署**: 支持 一键 DD 与 nixos-anywhere |
+| **[Dot Hosts](https://github.com/shaogme/dot-hosts)** | **模块化 NixOS 服务器配置**<br>机制与策略分离的现代化服务器配置库。 | • **内核调优**: CachyOS Kernel + BBRv3<br>• **网络优化**: SmartDNS 并行查询<br>• **一键部署**: 支持一键 DD |
 
 > Note: 这些项目均在活跃维护中，欢迎提交 Issue 或 PR。
 
